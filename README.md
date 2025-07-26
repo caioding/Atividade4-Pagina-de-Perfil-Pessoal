@@ -93,7 +93,7 @@ git clone https://github.com/caioding/Atv4-MaisPraTI.git
 
 2. Abra o arquivo `perfil.html` em seu navegador
 
-Ou acesse diretamente via GitHub Pages: [Ver Portfólio](https://caioding.github.io/Atividade4-Pagina-de-Perfil-Pessoal/)
+Ou acesse diretamente via GitHub Pages: [Ver Portfólio](https://caioding.github.io/Atividade4-Pagina-de-Perfil-Pessoal-MaisPraTI/)
 
 ## 🎯 Objetivos Atendidos
 
